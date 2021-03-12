@@ -1,0 +1,65 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.5, pytest-6.2.2, py-1.10.0, pluggy-0.13.1 -- /mnt/g/School/CS362/In class activitiees/CI-Checklist/calculator/bin/python3
+cachedir: .pytest_cache
+rootdir: /mnt/g/School/CS362/In class activitiees/CI-Checklist
+plugins: cov-2.11.1
+collecting ... collected 0 items
+
+
+----------- coverage: platform linux, python 3.8.5-final-0 -----------
+Name                                                                              Stmts   Miss  Cover
+-----------------------------------------------------------------------------------------------------
+calculator/lib/python3.8/site-packages/_pytest/_argcomplete.py                       37     36     3%
+calculator/lib/python3.8/site-packages/_pytest/_io/terminalwriter.py                113     67    41%
+calculator/lib/python3.8/site-packages/_pytest/_io/wcwidth.py                        25     22    12%
+calculator/lib/python3.8/site-packages/_pytest/assertion/__init__.py                 84     80     5%
+calculator/lib/python3.8/site-packages/_pytest/assertion/rewrite.py                 624    597     4%
+calculator/lib/python3.8/site-packages/_pytest/cacheprovider.py                     314    264    16%
+calculator/lib/python3.8/site-packages/_pytest/capture.py                           560    538     4%
+calculator/lib/python3.8/site-packages/_pytest/compat.py                            162    138    15%
+calculator/lib/python3.8/site-packages/_pytest/config/__init__.py                   806    701    13%
+calculator/lib/python3.8/site-packages/_pytest/config/argparsing.py                 253    208    18%
+calculator/lib/python3.8/site-packages/_pytest/debugging.py                         228    219     4%
+calculator/lib/python3.8/site-packages/_pytest/deprecated.py                         16     15     6%
+calculator/lib/python3.8/site-packages/_pytest/doctest.py                           351    342     3%
+calculator/lib/python3.8/site-packages/_pytest/faulthandler.py                       64     53    17%
+calculator/lib/python3.8/site-packages/_pytest/fixtures.py                          833    766     8%
+calculator/lib/python3.8/site-packages/_pytest/helpconfig.py                        133    123     8%
+calculator/lib/python3.8/site-packages/_pytest/junitxml.py                          373    371     1%
+calculator/lib/python3.8/site-packages/_pytest/logging.py                           402    319    21%
+calculator/lib/python3.8/site-packages/_pytest/main.py                              461    315    32%
+calculator/lib/python3.8/site-packages/_pytest/mark/__init__.py                     141    126    11%
+calculator/lib/python3.8/site-packages/_pytest/mark/structures.py                   244    239     2%
+calculator/lib/python3.8/site-packages/_pytest/monkeypatch.py                       171    158     8%
+calculator/lib/python3.8/site-packages/_pytest/nodes.py                             271    247     9%
+calculator/lib/python3.8/site-packages/_pytest/pastebin.py                           70     69     1%
+calculator/lib/python3.8/site-packages/_pytest/pathlib.py                           342    322     6%
+calculator/lib/python3.8/site-packages/_pytest/python.py                            851    843     1%
+calculator/lib/python3.8/site-packages/_pytest/reports.py                           279    270     3%
+calculator/lib/python3.8/site-packages/_pytest/runner.py                            299    269    10%
+calculator/lib/python3.8/site-packages/_pytest/setuponly.py                          56     54     4%
+calculator/lib/python3.8/site-packages/_pytest/setupplan.py                          24     22     8%
+calculator/lib/python3.8/site-packages/_pytest/skipping.py                          178    174     2%
+calculator/lib/python3.8/site-packages/_pytest/stepwise.py                           68     67     1%
+calculator/lib/python3.8/site-packages/_pytest/store.py                              34     29    15%
+calculator/lib/python3.8/site-packages/_pytest/terminal.py                          897    771    14%
+calculator/lib/python3.8/site-packages/_pytest/tmpdir.py                            106     91    14%
+calculator/lib/python3.8/site-packages/_pytest/warnings.py                           63     47    25%
+calculator/lib/python3.8/site-packages/pluggy/_tracing.py                            41     31    24%
+calculator/lib/python3.8/site-packages/pluggy/callers.py                            125     91    27%
+calculator/lib/python3.8/site-packages/pluggy/hooks.py                              175    106    39%
+calculator/lib/python3.8/site-packages/pluggy/manager.py                            196    154    21%
+calculator/lib/python3.8/site-packages/py/_builtin.py                               112     78    30%
+calculator/lib/python3.8/site-packages/py/_code/__init__.py                           0      0   100%
+calculator/lib/python3.8/site-packages/py/_code/code.py                             531    408    23%
+calculator/lib/python3.8/site-packages/py/_error.py                                  52     49     6%
+calculator/lib/python3.8/site-packages/py/_path/common.py                           277    238    14%
+calculator/lib/python3.8/site-packages/py/_path/local.py                            694    618    11%
+calculator/lib/python3.8/site-packages/py/_vendored_packages/apipkg/__init__.py     152    133    12%
+calculator/lib/python3.8/site-packages/pytest_cov/compat.py                          21     17    19%
+calculator/lib/python3.8/site-packages/pytest_cov/engine.py                         238    217     9%
+calculator/lib/python3.8/site-packages/pytest_cov/plugin.py                         209    195     7%
+-----------------------------------------------------------------------------------------------------
+TOTAL                                                                             12756  11307    11%
+
+============================ no tests ran in 0.85s =============================
